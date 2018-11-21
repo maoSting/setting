@@ -1,2 +1,2 @@
 # setting
-PHPSTORM配置
+PHPSTORM setting
